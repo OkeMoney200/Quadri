@@ -1,2 +1,8 @@
 # Quadri
-read_me 
+read_me <h1 align="center">Hi 👋, I'm Quadri</h1>
+<h3 align="center">Cybersecurity</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
